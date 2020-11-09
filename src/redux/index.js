@@ -4,7 +4,6 @@ import useGlobalHook from "use-global-hook";
 // This is our initial state object
 export const initialState = {
   logInData: { username: "hruday@gmail.com", password: "hruday123" },
-  keys: ["id", "name", "age", "gender", "phoneNo"],
   user: [
     {
       id: 1,
