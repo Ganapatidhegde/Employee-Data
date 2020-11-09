@@ -33,8 +33,7 @@ local.properties
 #
 
 dist/
-android/
-ios/
+
 yarn.lock
 _tests_/
 node_modules/
